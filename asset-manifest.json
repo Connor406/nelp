@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nelp/static/css/main.7a0e129c.chunk.css",
+    "main.js": "/nelp/static/js/main.62db9b41.chunk.js",
+    "main.js.map": "/nelp/static/js/main.62db9b41.chunk.js.map",
+    "runtime-main.js": "/nelp/static/js/runtime-main.aa68905e.js",
+    "runtime-main.js.map": "/nelp/static/js/runtime-main.aa68905e.js.map",
+    "static/js/2.5312387f.chunk.js": "/nelp/static/js/2.5312387f.chunk.js",
+    "static/js/2.5312387f.chunk.js.map": "/nelp/static/js/2.5312387f.chunk.js.map",
+    "index.html": "/nelp/index.html",
+    "precache-manifest.5c5e3d2cd1b406e34f126f7e573d802c.js": "/nelp/precache-manifest.5c5e3d2cd1b406e34f126f7e573d802c.js",
+    "service-worker.js": "/nelp/service-worker.js",
+    "static/css/main.7a0e129c.chunk.css.map": "/nelp/static/css/main.7a0e129c.chunk.css.map",
+    "static/js/2.5312387f.chunk.js.LICENSE.txt": "/nelp/static/js/2.5312387f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa68905e.js",
+    "static/js/2.5312387f.chunk.js",
+    "static/css/main.7a0e129c.chunk.css",
+    "static/js/main.62db9b41.chunk.js"
+  ]
+}
